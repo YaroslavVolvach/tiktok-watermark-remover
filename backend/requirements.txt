@@ -1,0 +1,13 @@
+asgiref==3.8.1
+Django==5.2
+djangorestframework==3.16.0
+ffmpeg-python==0.2.0
+future==1.0.0
+gunicorn==23.0.0
+numpy==2.2.5
+opencv-python==4.11.0.86
+packaging==25.0
+python-decouple==3.8
+python-multipart==0.0.20
+sqlparse==0.5.3
+typing_extensions==4.13.2

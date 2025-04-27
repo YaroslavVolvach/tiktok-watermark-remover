@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+
+# Django
+*.sqlite3
+db.sqlite3
+
+# Media files (uploaded videos)
+media/
+
+# Environment variables
+.env
+
+# VSCode and MacOS junk files
+.vscode/
+.DS_Store
+
+# Docker
+*.log
